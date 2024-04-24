@@ -1,0 +1,9 @@
+{
+	"name": "studiesdbimoveis",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9e030fe1-40ae-4bee-8239-5c3e5512d3f9",
+		"tenantId": "78890dfd-9c9f-46e5-9efb-d27175ce827c"
+	}
+}
